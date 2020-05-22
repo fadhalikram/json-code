@@ -53,38 +53,6 @@
         "program": "",
         "sumber": "Sumber",
         "input": "Kiki Marjuki"
-      },
-      {
-        "konfirmasi_id": 398253,
-        "tanggal": "2019-08-17 15:44:12",
-        "donatur_id": "DP441702",
-        "url_donatur_detail": "https://devdc-aws.act.id/dataact/index2.php?act=dntr&vw=DP441702",
-        "nama": "Ira Indrihastuti Binti Santosa",
-        "hp": "085733284588",
-        "tanggal_transaksi": "2019-08-17 00:00:00",
-        "konfirmasi": "<html>\r\n\t\t\t\t<body><h1>Donate Confirmation</h1>\r\n\t\t\t\t<table><tr><td>Tanggal</td><td>:</td><td> 2019-08-17 </td></tr>\r\n\t\t\t\t\t<tr><td>Nama </td><td>:</td><td> Ira indrihastuti </td></tr>\r\n\t\t\t\t\t<tr><td>HP </td><td>:</td><td> 085733284588 </td></tr>\r\n\t\t\t\t\t<tr><td>Email </td><td>:</td><td> ira.indrihastuti@gmail.com </td></tr>\r\n\t\t\t\t\t<tr><td>Jumlah</td><td>:</td><td> 1100012 </td></tr>\r\n\t\t\t\t\t<tr><td>Bank Asal </td><td>:</td><td> BCA 1880463744 </td></tr>\r\n\t\t\t\t\t<tr><td>Atasnama Bank </td><td>:</td><td> Ira indrihastuti </td></tr>\r\n\t\t\t\t\t<tr><td>Bank Tujuan </td><td>:</td><td> BCA 2180223838 </td></tr>\r\n\t\t\t\t\t<tr><td>Jenis Donasi</td><td>:</td><td> Qurban </td></tr>\r\n\t\t\t\t\t<tr><td>Invoice</td><td>:</td><td> 2019081787150 </td></tr>\r\n\t\t\t\t\t<tr><td>Keterangan</td><td>:</td><td> Ira indrihastuti binti santosa </td></tr>\r\n\t\t\t\t\t<tr><td>Bukti transaksi</td><td>:</td><td><a href=\"https://kim.act.id/payment/../dataact/files/crm/konfirmasi/online/2019/08/17/15/44/12/IMG_20190817_154155.jpg\" target=\"_blank\">IMG_20190817_154155.jpg</a></td></tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t</body></html>",
-        "rekening": "",
-        "yayasan": "",
-        "jumlah": "1,100,012",
-        "program": "GlobalQurban",
-        "sumber": "Web GQ",
-        "input": "Kiki Marjuki"
-      },
-      {
-        "konfirmasi_id": 398246,
-        "tanggal": "2019-08-17 09:08:02",
-        "donatur_id": "DP417727",
-        "url_donatur_detail": "https://devdc-aws.act.id/dataact/index2.php?act=dntr&vw=DP417727",
-        "nama": "Dewi",
-        "hp": "089636361349",
-        "tanggal_transaksi": "2019-08-16 00:00:00",
-        "konfirmasi": "\t<html>\n\t\t\t\t\t\t\t\t\t<body><h1>Donate Confirmation</h1>\n\t\t\t\t\t\t\t\t\t\t<table><tr><td>Tanggal</td><td>:</td><td> 16-08-2019</td></tr>\n\t\t\t\t\t\t\t\t\t\t\t<tr><td>Jumlah</td><td>:</td><td> 100,000 </td></tr>\n\t\t\t\t\t\t\t\t\t\t\t<tr><td>Invoice</td><td>:</td><td> 1019081670900 </td></tr>\n\t\t\t\t\t\t\t\t\t\t\t<tr><td>Bank Pengirim </td><td>:</td><td> Bni </td></tr>\n\t\t\t\t\t\t\t\t\t\t\t<tr><td>Atas Nama Bank Pengirim</td><td>:</td><td> Yaman </td></tr>\n\t\t\t\t\t\t\t\t\t\t\t<tr><td>Bank ACT</td><td>:</td><td> BNI SYARIAH - 96110239 </td></tr>\n\t\t\t\t\t\t\t\t\t\t\t<tr><td>Jenis Donasi</td><td>:</td><td> Yaman </td></tr>\n\t\t\t\t\t\t\t\t\t\t\t<tr><td>Bukti transaksi</td><td>:</td><td><a href=\"https://kim.act.id/dataact/files/crm/konfirmasi/online/2019/08/17/09/08/02/Dewi_2019_08_17_02_08_02_image.jpg\" target=\"_blank\">Dewi_2019_08_17_02_08_02_image.jpg</a></td></tr>\n\t\t\t\t\t\t\t\t\t\t</table>\n\t\t\t\t\t\t\t\t\t</body>\n\t\t\t\t\t\t\t\t</html>",
-        "rekening": "",
-        "yayasan": "",
-        "jumlah": "100,000",
-        "program": "",
-        "sumber": "Dewi yulianti",
-        "input": "Kiki Marjuki"
       }
     ]
   ],
@@ -122,118 +90,6 @@
     {
       "Text": "Pekanbaru",
       "Value": "8"
-    },
-    {
-      "Text": "Padang - Sumbar",
-      "Value": "9"
-    },
-    {
-      "Text": "Makasar - Sulsel",
-      "Value": "10"
-    },
-    {
-      "Text": "Palembang - Sumsel",
-      "Value": "11"
-    },
-    {
-      "Text": "Mataram - Nusa Tenggara Barat",
-      "Value": "12"
-    },
-    {
-      "Text": "Bandar Lampung - Lampung",
-      "Value": "13"
-    },
-    {
-      "Text": "Malang - Jawa Timur",
-      "Value": "17"
-    },
-    {
-      "Text": "Batam - Kepulauan Riau",
-      "Value": "18"
-    },
-    {
-      "Text": "Representatif Turki",
-      "Value": "19"
-    },
-    {
-      "Text": "Banjarmasin - Kalimantan Selatan",
-      "Value": "20"
-    },
-    {
-      "Text": "Solo - Jawa Tengah",
-      "Value": "21"
-    },
-    {
-      "Text": "Balikpapan - Kalimantan Timur",
-      "Value": "22"
-    },
-    {
-      "Text": "Cirebon - Jawa Barat",
-      "Value": "23"
-    },
-    {
-      "Text": "Palu - Sulawesi Tengah",
-      "Value": "24"
-    },
-    {
-      "Text": "Tasikmalaya - Jawa Barat",
-      "Value": "25"
-    },
-    {
-      "Text": "Duri Pekanbaru",
-      "Value": "26"
-    },
-    {
-      "Text": "Pontianak - Kalimantan Barat",
-      "Value": "27"
-    },
-    {
-      "Text": "Bali",
-      "Value": "28"
-    },
-    {
-      "Text": "Representatif Belgia",
-      "Value": "29"
-    },
-    {
-      "Text": "Eropa Lainnya",
-      "Value": "30"
-    },
-    {
-      "Text": "Timur Tengah",
-      "Value": "31"
-    },
-    {
-      "Text": "DKI",
-      "Value": "32"
-    },
-    {
-      "Text": "Bodekasi",
-      "Value": "33"
-    },
-    {
-      "Text": "Banten",
-      "Value": "34"
-    },
-    {
-      "Text": "ASIA",
-      "Value": "35"
-    },
-    {
-      "Text": "AUSTRALIA",
-      "Value": "36"
-    },
-    {
-      "Text": "USA",
-      "Value": "37"
-    },
-    {
-      "Text": "Jambi",
-      "Value": "38"
-    },
-    {
-      "Text": "Jember",
-      "Value": "40"
     }
   ],
 
@@ -282,26 +138,6 @@
     {
       "Text": "2019 - Program Tabungan Qurban",
       "Value": "326"
-    },
-    {
-      "Text": "2020 - Program Tabungan Qurban ",
-      "Value": "375"
-    },
-    {
-      "Text": "Air Bersih SulSel",
-      "Value": "395"
-    },
-    {
-      "Text": "Air Bersih untuk Palestina",
-      "Value": "279"
-    },
-    {
-      "Text": "Air Untuk Lombok",
-      "Value": "317"
-    },
-    {
-      "Text": "Air Untuk Palu",
-      "Value": "329"
     }
   ],
 
