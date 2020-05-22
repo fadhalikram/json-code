@@ -4,6 +4,22 @@
     "email":"ikram@act.id",
     "token":"123"
   },
+  "konfirmasi/1":{
+    "konfirmasi_id": 1,
+    "tanggal": "2020-05-18 18:54:07",
+    "donatur_id": "DP08042",
+    "url_donatur_detail": "https://devdc-aws.act.id/dataact/index2.php?act=dntr&vw=DP08042",
+    "nama": "Sirajuddin Maizir",
+    "hp": "08111110523",
+    "tanggal_transaksi": "2020-05-01 00:00:00",
+    "konfirmasi": "<html>\n\t<body><h1>Donate Confirmation</h1>\n\t\t<table><tr><td>Tanggal</td><td>:</td><td> 05-01-2020</td></tr>\n\t\t\t<tr><td>Jumlah</td><td>:</td><td> 10,000.00 </td></tr>\n\t\t\t<tr><td>Invoice</td><td>:</td><td> Invoice123456 </td></tr>\n\t\t\t<tr><td>Bank Pengirim </td><td>:</td><td> BSM </td></tr>\n\t\t\t<tr><td>Atas Nama Bank Pengirim</td><td>:</td><td> Donasi ABC </td></tr>\n\t\t\t<tr><td>Bank ACT</td><td>:</td><td> BCA - 2180223838 </td></tr>\n\t\t\t<tr><td>Jenis Donasi</td><td>:</td><td> Donasi </td></tr>\n\t\t\t<tr><td>Bukti transaksi</td><td>:</td><td><a href=\"https://gip-dc-dev.s3.ap-southeast-1.amazonaws.com/crm/konfirmasi-online/20200518/115407-DP08042-abcdef.jpg\" target=\"_blank\">abcdef.jpg</a></td></tr>\n\t\t</table>\n\t</body>\n</html>",
+    "rekening": "Permata",
+    "yayasan": "",
+    "jumlah": "10,000",
+    "program": "",
+    "sumber": "Sumber",
+    "input": "Kiki Marjuki"
+  },
   "list_konfirmasi":[
     [
       {
