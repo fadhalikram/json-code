@@ -59,37 +59,5 @@
       "Text": "2015 - Program Tabungan Qurban ",
       "Value": "175"
     }
-  ],
-
-  "crm_status":
-  [
-    {
-      "Text": "In Process",
-      "Value": "1"
-    },
-    {
-      "Text": "Keuangan Ok",
-      "Value": "2"
-    },
-    {
-      "Text": "Done",
-      "Value": "3"
-    }
-  ],
-
-  "prioritas":
-  [
-    {
-      "Text": "Prioritas 1",
-      "Value": "prioritas1"
-    },
-    {
-      "Text": "Prioritas 2",
-      "Value": "prioritas2"
-    },
-    {
-      "Text": "Prioritas 3",
-      "Value": "prioritas3"
-    }
   ]
 }
