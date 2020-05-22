@@ -66,30 +66,6 @@
     {
       "Text": "Bandung - Jawa Barat",
       "Value": "2"
-    },
-    {
-      "Text": "Daerah Istimewa Yogyakarta",
-      "Value": "3"
-    },
-    {
-      "Text": "Medan - Sumatera Utara",
-      "Value": "4"
-    },
-    {
-      "Text": "Semarang - Jawa Tengah",
-      "Value": "5"
-    },
-    {
-      "Text": "Surabaya - Jawa Timur",
-      "Value": "6"
-    },
-    {
-      "Text": "Banda Aceh - Aceh",
-      "Value": "7"
-    },
-    {
-      "Text": "Pekanbaru",
-      "Value": "8"
     }
   ],
 
@@ -102,14 +78,6 @@
     {
       "Text": "Global Qurban",
       "Value": "GQ"
-    },
-    {
-      "Text": "Global Zakat",
-      "Value": "GZ"
-    },
-    {
-      "Text": "Global Wakaf",
-      "Value": "GW"
     }
   ],
 
@@ -122,22 +90,6 @@
     {
       "Text": "2015 - Program Tabungan Qurban ",
       "Value": "175"
-    },
-    {
-      "Text": "2016 - Program Tabungan Qurban",
-      "Value": "219"
-    },
-    {
-      "Text": "2017 - Program Tabungan Qurban",
-      "Value": "240"
-    },
-    {
-      "Text": "2018 - Program Tabungan Qurban",
-      "Value": "271"
-    },
-    {
-      "Text": "2019 - Program Tabungan Qurban",
-      "Value": "326"
     }
   ],
 
